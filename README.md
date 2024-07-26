@@ -7,7 +7,7 @@
 ## Como Jogar
  Ao entrar no site, o usuário vai se deparar com um campo para inserir o nome dos particpantes, tendo um número minímo de 4 partipantes, caso o usário não digite um nome ou insira menos nomes do que o mínimo, o site avisará sobre o erro, além disso, o site diferencia nome, então nomes repetidos não serão aceitos.
 
-  Bom jogo!!
+  Bom uso!!
 
 ## Tecnologias
 <div>
