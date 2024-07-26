@@ -2,11 +2,10 @@
 
 <h2>Sobre</h2>
 <p>Projeto desenvolvido durante o curso de lógica de programação e prática fornecidas pela Alura. Este projeto tem como objetivos a criação de site para fazer sorteios de amigo secreto, 
-  onde o usuário deverá inserir os nomes do participantes e, ao sortear, o programa sorteia os nomes para presentear.</p>
+  onde o usuário deverá inserir os nomes do participantes e, ao sortear, o programa devolve os nomes de pessoas a se presentear.</p>
 
 ## Como Jogar
- Ao entrar no site, o usuário vai se deparar com um campo para inserir o nome dos particpantes, tendo um número minímo de 4 partipantes, caso o usário não digite um nome ou insira menos nomes do que 
- o mínimo, o site avisará sobre o erro, além disso, o site distingue pessoas pelo nome, então nomes repetidos não serão aceitos.
+ Ao entrar no site, o usuário vai se deparar com um campo para inserir o nome dos particpantes, tendo um número minímo de 4 partipantes, caso o usário não digite um nome ou insira menos nomes do que o mínimo, o site avisará sobre o erro, além disso, o site diferencia nome, então nomes repetidos não serão aceitos.
 
   Bom jogo!!
 
